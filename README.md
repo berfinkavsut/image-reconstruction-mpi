@@ -1,4 +1,4 @@
-## Comparison of ADMM and Kaczmarz REconstruction Algorithms 
+## Comparison of ADMM and Kaczmarz Reconstruction Algorithms 
 
 Project members: Aslı Alpman, Beril Alyüz, Berfin Kavşut
 
@@ -9,7 +9,9 @@ variation and l norm regularization to utilize slowly changing nature and the sp
 in the project. We compared the performance of Kaczmarz and ADMM by looking at the quality of the
 resulted images and convergence properties.
 
-# Sources
-Datasets are taken from [OpenMPI datasets](https://magneticparticleimaging.github.io/OpenMPIData.jl/latest/index.html)
+For more information, please check the project report inside this repository.
 
-Source code: https://web.stanford.edu/~boyd/papers/admm/
+# References
+
+MPI image datasets were taken from [OpenMPI datasets](https://magneticparticleimaging.github.io/OpenMPIData.jl/latest/index.html)
+ADMM functions were developed on [MATLAB scripts](https://web.stanford.edu/~boyd/papers/admm/) for alternating direction method of multipliers, which was published by S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein. 
