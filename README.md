@@ -10,5 +10,6 @@ in the project. We compared the performance of Kaczmarz and ADMM by looking at t
 resulted images and convergence properties.
 
 # Sources
-Datasets are taken from [OpenMPI datasets]([url](https://magneticparticleimaging.github.io/OpenMPIData.jl/latest/index.html))
+Datasets are taken from [OpenMPI datasets](https://magneticparticleimaging.github.io/OpenMPIData.jl/latest/index.html)
+
 Source code: https://web.stanford.edu/~boyd/papers/admm/
