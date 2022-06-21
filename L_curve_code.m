@@ -13,7 +13,7 @@ load('meas_website.mat','u');
 %condition number of Sigma matrix 
 condition_no = cond(Sigma); 
 
-%row norm energy normalization and thresholding
+%row norm thresholding
 [size_original,~] = size(S);
 threshold = 50;
 [S,u] = row_norm_treshold(threshold,S,u);
