@@ -1,6 +1,6 @@
 # Comparison of ADMM and Kaczmarz Reconstruction Algorithms 
 
-**Project Members**
+## Project Members
 - Aslı Alpman
 - Beril Alyüz
 - Berfin Kavşut
